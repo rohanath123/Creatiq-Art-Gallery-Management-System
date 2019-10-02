@@ -2,9 +2,8 @@
 <html>
 <body>
 <h6>
-  PROBLEM STATEMENT: 
-To provide an online platform to manage the buying, selling and storage of artistic creations provided by creators/other platforms or auctions, and to organize events to exhibit these products. 
 
+An online platform to provide a management and storage system for paintings, sculptures and other kinds of artworks based on mySQL.
 </h6>
 </body>
 </html>
